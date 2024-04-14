@@ -19,11 +19,13 @@ print(gold.predict([[ 5086.66 , 73.56, 21.72, 1.09]]))
 
 
 
-plt.hist(data['GLD' ] ,  color='#FFA07A', edgecolor= 'black' )
-
-plt.xlabel('X-axis Label')
-plt.ylabel('Y-axis Label')
-plt.title('gold price predeiction')
+plt.xlabel('Gold Price (USD)')
+plt.ylabel('Frequency')
+plt.hist(data['GLD'], bins=25, color='#FFA07A', edgecolor='black')
+plt.xlabel('Gold Price (USD)')
+plt.ylabel('Frequency')
+plt.title('Distribution of Historical Gold Prices')
+plt.grid(True)
 plt.show()
 
 #done by Ahmed Ehab 
