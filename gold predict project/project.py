@@ -25,4 +25,5 @@ plt.xlabel('X-axis Label')
 plt.ylabel('Y-axis Label')
 plt.title('gold price predeiction')
 plt.show()
-#color='#FFA07A',,   edgecolor= 'black'
+
+#done by Ahmed Ehab 
