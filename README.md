@@ -1,6 +1,4 @@
 Gold price Predictor Lite: my first project as a Beginner in AI and Machine Learning feild 
 
 
-a simple project for predicting  the gold price its not 100% accurate because of its lacks of more  data and information. i just used the (gold price data CSV).
-but its a good structure to build a bigger and more accurate project in my future 
-
+I’m thrilled to share that I’ve updated my machine learning project on GitHub to include a new feature: real-time predictions based on user input!
